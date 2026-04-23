@@ -16,6 +16,13 @@ A simple Flask-based web application to track job applications.
 - Flask
 - SQLite
 
+## 🔗 API Endpoints
+
+- `GET /` → Check if app is running  
+- `GET /jobs` → Get all job applications  
+- `POST /add` → Add a new job application  
+- `GET /add-test` → Insert sample test data  
+
 ## ▶️ How to Run
 
 1. Clone the repository:
