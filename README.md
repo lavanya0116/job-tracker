@@ -27,7 +27,7 @@ A simple Flask-based web application to track job applications.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/job-tracker.git
+git clone https://github.com/lavanya0116/job-tracker.git
 ```
 
 2. Navigate to the folder:
