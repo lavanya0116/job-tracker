@@ -2,11 +2,14 @@
 
 A simple Flask-based web application to track job applications.
 
-## 🚀 Features
-- Add job applications
-- Track company, role, and status
-- Store data using SQLite database
-- Lightweight and easy to use
+### 🚀 Features
+- Add job applications  
+- Track company, role, and status  
+- Store data using SQLite database  
+- Lightweight and easy to use  
+- REST-style endpoints for adding and retrieving job applications  
+- SQLAlchemy ORM integration for database operations  
+- Simple backend architecture for easy extension  
 
 ## 🛠 Tech Stack
 - Python
